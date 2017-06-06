@@ -1,7 +1,8 @@
 <time>2016.4</time>
 
-- 介绍
 ![atom](./atom.png)
+- 介绍
+
 
   - 官网 [atom.io](https://atom.io/)
   - 中文社区 [atom-china.org](https://atom-china.org/)
